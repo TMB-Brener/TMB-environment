@@ -5,10 +5,10 @@ DEV environment
 [docker](https://www.docker.com/products/docker-desktop/)
 
 
-Install-Package in OrderManagement.Infrastructure
-Microsoft.EntityFrameworkCore
-Npgsql.EntityFrameworkCore.PostgreSQL
-Azure.Messaging.ServiceBus
-Microsoft.Extensions.Configuration
-Microsoft.Extensions.DependencyInjection
-Swashbuckle.AspNetCore
+Install-Package in OrderManagement.Infrastructure  
+Microsoft.EntityFrameworkCore  
+Npgsql.EntityFrameworkCore.PostgreSQL  
+Azure.Messaging.ServiceBus  
+Microsoft.Extensions.Configuration  
+Microsoft.Extensions.DependencyInjection  
+Swashbuckle.AspNetCore  
